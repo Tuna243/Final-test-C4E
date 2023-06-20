@@ -55,7 +55,6 @@ function check ()
     {
         console.log(Sum(a,b));
         ans.innerHTML = Sum(a,b).toString();
-        
     }
 }
 
